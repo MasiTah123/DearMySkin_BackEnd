@@ -1,0 +1,4 @@
+CREATE TABLE uploadedImage (
+    id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+    attachment VARCHAR(255)
+);
